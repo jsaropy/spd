@@ -12,13 +12,16 @@ This series teaches a systematic approach to program design using design recipes
 > Note: These courses are now archived on edX, but all materials are still accessible for self-study.
 
 ### Repository Structure
-.
+
 ├── week1/              # Example: Problem sets from Week 1
 ├── week2/
 ├── ...
 ├── projects/           # Larger projects (e.g., interactive games)
+├── quizzes/            # Design quizzes and solutions
+├── notes/              # Optional: Personal notes or summaries
 └── README.md
-textEach folder contains `.rkt` files with my implementations following the systematic design recipes taught in the course (data definitions, templates, tests, etc.).
+
+Each folder contains `.rkt` files with my implementations following the systematic design recipes taught in the course (data definitions, templates, tests, etc.).
 
 ### Language & Environment
 - **Language**: Beginning Student Language (BSL) in Racket
