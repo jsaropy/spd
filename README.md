@@ -4,6 +4,4 @@ My solutions and problem sets for the **How to Code: Systematic Program Design**
 
 > Note: These courses are now archived on edX, but all materials are still accessible for self-study.
 
-Each folder contains `.rkt` files with my implementations following the systematic design recipes taught in the course (data definitions, templates, tests, etc.).
-
 
